@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @psboopathi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
--
 
 <!---
 psboopathi/psboopathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
